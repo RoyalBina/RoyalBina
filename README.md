@@ -11,4 +11,8 @@ https://twitter.com/Royalbina2022?t=mw2_NauCmOUoWq0dWY5Ung&s=09
 
 https://t.me/RoyalBinaCoin
 
-Thank you for following us.
+https://github.com/RoyalBina/RoyalBina
+
+RoyalBina2022@gmail.com
+
+Thank you for following us
