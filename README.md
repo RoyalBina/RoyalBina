@@ -1,7 +1,7 @@
 # RoyalBinaCoin
 WHY CHOOSE RoyalBinaCoin
 
-The Royal Bina team intends to introduce its power generating device to the world by introducing its name, this device can easily charge any type of electric vehicle and the owners of electric vehicles can easily travel long distances.
+The RoyalBinaCoin team intends to introduce its power generating device to the world by introducing its name, this device can easily charge any type of electric vehicle and the owners of electric vehicles can easily travel long distances.
 
 ABOUT US
 
