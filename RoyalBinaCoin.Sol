@@ -5,7 +5,7 @@
 // File: contracts/RoyalBina.sol
 Smart contract:
 
-en/0x6B7F786A7BDee678d46235f44F3b3014DEdEc0B1
+0x6B7F786A7BDee678d46235f44F3b3014DEdEc0B1
 
 pragma solidity 0.8.4;
 
