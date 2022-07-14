@@ -5,13 +5,13 @@ The RoyalBinaCoin team intends to introduce its power generating device to the w
 
 ABOUT US
 
-This project is unique and amazing because it strives for clean and endless energies
+The RBC is unique and amazing because it strives for clean and endless energies
 
 https://Royalbina.com
 
 https://twitter.com/Royalbina2022?t=mw2_NauCmOUoWq0dWY5Ung&s=09
 
-https://t.me/RoyalBinaCoinTOKEN
+https://t.me/RoyalBinaCoin
 
 https://github.com/RoyalBina/
 
